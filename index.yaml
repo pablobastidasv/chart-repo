@@ -3,11 +3,11 @@ entries:
   redis-commander:
   - apiVersion: v1
     appVersion: 0.6.5
-    created: 2019-06-01T22:41:42.192467+02:00
+    created: 2019-06-01T22:56:17.288435+02:00
     description: A Helm chart for Redis Commander
-    digest: 355e4d4950d5fe6c35882a6254cd14647335fc1b4a525ef1e0c7a16ef7810178
+    digest: e38164fcde25ff0e740507bb7454ddff0432c4a05d30be84d825cab321b855d8
     name: redis-commander
     urls:
     - redis-commander-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-01T22:41:42.190864+02:00
+generated: 2019-06-01T22:56:17.287551+02:00
